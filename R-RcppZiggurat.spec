@@ -4,7 +4,7 @@
 #
 Name     : R-RcppZiggurat
 Version  : 0.1.5
-Release  : 1
+Release  : 2
 URL      : https://cran.r-project.org/src/contrib/RcppZiggurat_0.1.5.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/RcppZiggurat_0.1.5.tar.gz
 Summary  : 'Rcpp' Integration of Different "Ziggurat" Normal RNG
